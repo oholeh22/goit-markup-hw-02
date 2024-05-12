@@ -42,7 +42,11 @@ body {
     text-decoration: none;
 }
 
-.link-nav:hover,
+.link-style:hover {
+    color: #404bbf;
+}
+    
+
 .link-nav:focus {
     color: #404bbf;
 }
@@ -183,8 +187,8 @@ body {
 
 .title-portfolio {
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
