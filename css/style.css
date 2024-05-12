@@ -42,7 +42,7 @@ body {
     text-decoration: none;
 }
 
-.link-style:hover {
+.link-nav:hover {
     color: #404bbf;
 }
     
@@ -66,7 +66,9 @@ body {
     font-style: normal;
 }
 
-.contacts:hover,
+.contacts:hover {
+    color: #404bbf;
+}
 .contacts:focus {
     color: #404bbf;
 }
@@ -188,7 +190,7 @@ body {
 .title-portfolio {
     font-weight: 500;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
