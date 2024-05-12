@@ -100,7 +100,6 @@ body {
 .button:hover,
 .button:focus {
     background-color: #404BBF;
-    background-color:#404BBF;
 }
 .title-features {
     font-weight: 700;
