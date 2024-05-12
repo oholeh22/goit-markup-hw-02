@@ -65,10 +65,10 @@ body {
 }
 
 .contacts:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .contacts:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 .main-section {
@@ -93,15 +93,15 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     cursor: pointer;
 }
 
-.button:hover {
-    background-color:#404bbf;
+.button:hover{
+    background-color: #404BBF;
 }
 .button:focus {
-    background-color:#404bbf;
+    background-color:#404BBF;
 }
 .title-features {
     font-weight: 700;
