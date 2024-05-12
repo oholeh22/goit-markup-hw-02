@@ -97,10 +97,10 @@ body {
     cursor: pointer;
 }
 
-.button:hover {
+.button-text:hover {
     background-color: #404BBF;
 }
-.button:focus {
+.button-text:focus {
     background-color: #404BBF;
 }
 .title-features {
