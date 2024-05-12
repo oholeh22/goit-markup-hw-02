@@ -43,12 +43,12 @@ body {
 }
 
 .link-nav:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
     
 
 .link-nav:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 .item-contacts {
@@ -67,10 +67,10 @@ body {
 }
 
 .contacts:hover {
-    color: #404bbf;
+    background-color: #404bbf
 }
 .contacts:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .main-section {
