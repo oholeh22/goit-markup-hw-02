@@ -42,7 +42,9 @@ body {
     text-decoration: none;
 }
 
-.link-nav:hover 
+.link-nav:hover {
+    color: #404bbf;
+}
 .link-nav:focus {
     color: #404bbf;
 }
@@ -62,7 +64,9 @@ body {
     font-style: normal;
 }
 
-.contacts:hover 
+.contacts:hover {
+    background-color: #404bbf;
+}
 .contacts:focus {
     background-color: #404bbf;
 }
@@ -93,7 +97,9 @@ body {
     cursor: pointer;
 }
 
-.button:hover
+.button:hover {
+    background-color:#404bbf;
+}
 .button:focus {
     background-color:#404bbf;
 }
