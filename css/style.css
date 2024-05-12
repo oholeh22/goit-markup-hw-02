@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background: #fff;
+    background-color: #fff;
     color: #434455;
 }
 
@@ -43,12 +43,12 @@ body {
 }
 
 .link-nav:hover {
-    color: #404bbf;
+    background-color: #404bbf;
 }
     
 
 .link-nav:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .item-contacts {
