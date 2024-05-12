@@ -99,8 +99,6 @@ body {
 
 .button:hover{
     background-color: #404BBF;
-}
-.button:focus {
     background-color:#404BBF;
 }
 .title-features {
